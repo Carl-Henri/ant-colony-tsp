@@ -1,5 +1,7 @@
 # Ant Colony Optimization — Traveling Salesman Problem
 
+![ACO — best tour and convergence](docs/screenshot.png)
+
 A Python implementation of **Ant Colony Optimization (ACO)** applied to the **Traveling Salesman Problem (TSP)**, with an interactive graphical interface to visualize the algorithm in action.
 
 Developed as a two-person team project at **Centrale Lyon** (2023–2024).
